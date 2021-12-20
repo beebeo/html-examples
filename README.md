@@ -6,3 +6,6 @@
 
 ## Shadow
 - [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette)
+
+## Loading
+- [Image Loading](./loading/gif.html)
